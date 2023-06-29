@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/PROJECT_EAVR-DEMO-DDW/Scenes/IntroScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
