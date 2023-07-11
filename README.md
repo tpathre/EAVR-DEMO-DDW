@@ -39,16 +39,10 @@ Download repository. First open Max patch Unity project and Max patch.
 ## For Max
 
 1. Open audio-EAVR-DEM-DDW.maxpat Max patch from the audio-Max folder.
+2. Go to File --> Show Package Manager. Install Sadam Library and Max sdk. 
+3. Go to Options --> Audio Status. Set the audio driver, input device and output device. 
+4. Add the paths for the BRIR folders and cppIntegration.dll.
 
-
-### Settings
-
-2. Go to File --> Show Package Manager. Install Sadam Library and Max SDk. 
-3. Go to 
-
-2. Add the paths for the BRIR folders and cppIntegration.dll.
-
-3. Audio status 
 
 ## For Unity
 
