@@ -84,7 +84,7 @@ public class SaveResponse
 
 	static string GetDirectoryPath()
 	{
-		return Application.dataPath + "Assets/" + projectName + "/" + dataDirectoryName;
+		return Application.dataPath + "/" + projectName + "/" + dataDirectoryName;
 	}
 
 	static string GetFilePath()
