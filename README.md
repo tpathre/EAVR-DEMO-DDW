@@ -39,10 +39,14 @@ Download or clone the repository.
 ## Settings for Max
 
 1. Open audio-EAVR-DEM-DDW.maxpat Max patch from the audio-Max folder.
-2. On the Max patch. Go to File --> Show Package Manager. Install Sadam Library and Max sdk. 
-3. Go to Options --> File Preferences. Check the paths for the relevant files 
+
+
+### Settings
+
+2. On the Max Patch. Go to File --> Show Package Manager. Install Sadam Library and Max SDk. 
+3. Go to Options --> File Preferences. Check the paths for the relevant files.
 4. Go to Options --> Audio Status. Set the audio driver, input driver and output device. The sampling rate should be set as 48000 Hz.
-5. Set the paths for the BRIR folders and cppIntegration.dll respectively, as follows
+5.  Set the paths for the BRIR folders and cppIntegration.dll respectively, as follows
 
 C:/Users/../../../brir_reverberation_room/
 
@@ -50,12 +54,12 @@ C:/Users/../../../brir_sports_hall/
 
 C:/Users/../../../prerequisites/
 
-## Settings for Unity
+
+## For Unity
 
 1. Open the unity-EAVR-DEMO-DDW Project with Unity 2019.4.36f1 version.
-2. Press the play button. The instructions on how to use the demonstration are visible and guide the user to proceed ahead. 
+2.  Press the play button. The instructions on how to use the demonstration are visible and guide the user to proceed ahead.
 3. The demonstration has been configured for the primary buttons "X" on the left and "A" on the right touch controller. 
-
 
   
 
