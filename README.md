@@ -39,6 +39,9 @@ Download or clone the repository.
 ## Settings for Max
 
 1. Open audio-EAVR-DEM-DDW.maxpat Max patch from the audio-Max folder.
+2. Go to File --> Show Package Manager. Install Sadam Library and Max sdk. 
+3. Go to Options --> Audio Status. Set the audio driver, input device and output device. 
+4. Add the paths for the BRIR folders and cppIntegration.dll.
 
 
 ### Settings
